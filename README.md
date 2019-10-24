@@ -5,4 +5,4 @@
 
 # Introduction
 
-<a href="" target="_blank">Brief Introduction (in my blog)</a>
+<a href="https://musing-fermat-a2d85a.netlify.com/blog/immutability" target="_blank">Brief Introduction (in my blog)</a>
